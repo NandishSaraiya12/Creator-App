@@ -55,3 +55,5 @@ https://backend-service-1006349434036.asia-south1.run.app
 https://creator-app-frontend.web.app/register  
 
 ---
+In addition, I have recorded and included a video walkthrough demonstrating the full functionality of the application.
+You can find the video here: [<link>](https://www.loom.com/share/51c4669fcddd412381771c4f292879dc?sid=0bb5bda1-1a8a-4905-98f8-0668df9fe191)
